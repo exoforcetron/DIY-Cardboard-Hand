@@ -2,6 +2,6 @@
 Cardboard hand
 
 **Warning this prosthetic hand may not work for everyone**
-parent supervision required.
+Parent supervision required.
 Materials needed:
 *scissors
