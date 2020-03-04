@@ -1,7 +1,5 @@
 # DIY-Cardboard-Hand
-Cardboard hand
+Prosthetic hand that is made out of cardboard.
 
 ### **Warning this prosthetic hand may not work for everyone**
 Parent supervision required.
-Materials needed:
-*scissors
