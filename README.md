@@ -8,3 +8,5 @@ Need template.pdf and ProtheticHandDIY.pdf files.
 Print out template.pdf file.
 You can print out ProtheticHandDIY.pdf file.
 If printing this file print double sided.
+
+credits Jessi Langager
